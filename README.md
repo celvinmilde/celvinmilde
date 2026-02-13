@@ -1,4 +1,4 @@
-# Hi there, ich bin Celvin 👋
+# Hi, ich bin Celvin 👋
 
 ### 👨‍💻 Über mich
 Ich bin Schüler an einer **Berufsfachschule mit Schwerpunkt Informatik**. Ich stehe noch am Anfang meiner Reise und lerne gerade, wie man Theorie in echte Projekte verwandelt.
